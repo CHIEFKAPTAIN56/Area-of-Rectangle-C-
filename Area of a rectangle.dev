@@ -1,0 +1,14 @@
+#include <iostream>
+
+using username std;
+
+int main() 
+{int L,W;
+int Area;
+cin L<<"Length of the rectangle"<< endl;
+cin W<<"Width of the rectangle"<< endl;
+Area = L*W
+cout<<"The area of the rectangle"<< area;
+cout<<"L,W,Area"<< endl;
+	return 0;
+}
